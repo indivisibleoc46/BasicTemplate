@@ -7,5 +7,8 @@ phone-numbers:
   OC Office: "(714) 621-0102"
   DC Office: "(202) 225-2965"
 website: https://correa.house.gov
+office: |-
+  1039 Longworth House Office Building
+  Washington, DC 20515
 ---
 
