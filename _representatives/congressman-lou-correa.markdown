@@ -4,7 +4,7 @@ date: 2017-02-20 18:08:00 -08:00
 categories:
 - Correa
 phone-numbers:
-  District Office: "(714) 621-0102"
+  OC District Office: "(714) 621-0102"
   Washington DC: "(202) 225-2965"
   Office: |-
     1039 Longworth House Office Building
