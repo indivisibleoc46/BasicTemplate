@@ -7,11 +7,9 @@ tags:
 - Correa
 - LGBT Center OC
 is featured: true
-main-image: "/uploads/indivisiblesf-photo1.jpg"
+main-image: "/uploads/2017-02-18%2013.27.03.jpg"
 layout: media-item
 ---
-
-![2017-02-18 13.27.03.jpg](/uploads/2017-02-18%2013.27.03.jpg)
 
 Among Congressional Districts that sit within Orange County, the 46th is unique. While other OC-area representatives avoid their constituents, 46th District representative J. Luis “Lou” Correa seems to have the opposite approach.
 
