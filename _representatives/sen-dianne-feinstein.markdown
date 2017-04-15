@@ -5,7 +5,7 @@ phone-numbers:
   Los Angeles Office: "(310) 914-7300"
   DC Office: "(202) 224-3553"
 website: https://www.feinstein.senate.gov/
-Office: |-
+office: |-
   331 Hart Senate Office Building
   Washington D.C. 20510
 ---
