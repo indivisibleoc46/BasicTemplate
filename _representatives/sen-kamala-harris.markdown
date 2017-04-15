@@ -5,5 +5,8 @@ phone-numbers:
   Los Angeles Office: "(213) 894-5000"
   DC Office: "(202) 224-3553"
 website: https://www.harris.senate.gov/
+Office: |-
+  40B Dirksen Senate Office Building
+  Washington DC 20510
 ---
 
