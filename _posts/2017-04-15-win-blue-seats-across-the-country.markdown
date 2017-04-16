@@ -8,11 +8,12 @@ tags:
 main-image: "/uploads/CodeBlue.png"
 ---
 
-Special Elections are taking place around the country. This is our early chance to win Blue house seats.  You can call voters in these states to get Democrats out to the polls.  
+Special Elections are taking place around the country. This is our early chance to win Blue house seats.  
 
+Upcoming:\
 -April 18: Georgia Democrats need our help GOTV in GA-6!!!\
--April 18: Candidate Jacqueline Smith in Virginia needs phone banking and donations!
+-April 18: Candidate Jacqueline Smith in Virginia needs phone banking and donations!\
+\
+CodeBlue is facilitating volunteers from around the country who are willing to call voters in these Special Election states to get Democrats out to the polls
 
 [JOIN CODE BLUE Phone Banking Team](www.facebook.com/joincodeblue)
-
-\
