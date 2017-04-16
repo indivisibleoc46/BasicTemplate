@@ -1,5 +1,5 @@
 ---
-title: Senator Kamala Harris
+title: Sen. Kamala Harris
 date: 2017-02-03 18:01:00 -08:00
 phone-numbers:
   Washington DC: "(202) 224-3553"
