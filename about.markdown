@@ -1,5 +1,5 @@
 ---
-title: Welcome Guide
+title: About
 date: 2017-04-15 20:00:00 -07:00
 ---
 
