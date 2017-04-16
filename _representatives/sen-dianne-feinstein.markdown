@@ -7,7 +7,7 @@ phone-numbers:
   DC Office: |-
     331 Hart Senate Office Bldg.
     Washington DC, 20510
-  LA Office: "11111 Santa Monica Blvd., Suite 915.\nLos Angeles, CA 90025 "
+  LA Office: "11111 Santa Monica Blvd., Ste 915.\nLos Angeles, CA 90025 "
 website: https://www.feinstein.senate.gov/
 ---
 
