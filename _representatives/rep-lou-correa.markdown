@@ -7,7 +7,7 @@ phone-numbers:
   Washington DC: "(202) 225-2965"
   CA District 46: "(714) 621-0102"
   DC Office: |-
-    1039 Longworth House Office Building
+    1039 Longworth House Office Bldg.
     Washington DC 20515
   District Office: Santa Ana (pending)
 website: https://correa.house.gov
