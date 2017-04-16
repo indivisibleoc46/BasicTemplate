@@ -7,7 +7,7 @@ tags:
 - Correa
 - LGBT Center OC
 is featured: true
-main-image: "/uploads/2017-02-18%2013.27.03.jpg"
+main-image: "/uploads/2017-02-18_13.27.03.jpg"
 layout: media-item
 ---
 
