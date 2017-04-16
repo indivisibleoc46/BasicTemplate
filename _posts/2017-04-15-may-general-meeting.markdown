@@ -1,6 +1,8 @@
 ---
 title: May General Meeting
 date: 2017-04-15 18:18:00 -07:00
+categories:
+- event
 is featured: true
 event-start-date: 2017-05-06 18:30:00 -07:00
 event-end-date: 2017-05-06 20:30:00 -07:00
