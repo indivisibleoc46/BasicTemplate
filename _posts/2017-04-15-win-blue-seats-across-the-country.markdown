@@ -1,5 +1,5 @@
 ---
-title: Win Blue Seats Across the Country
+title: Phone Bank to win Blue Seats - Urgent!
 date: 2017-04-15 11:50:00 -07:00
 categories:
 - action
