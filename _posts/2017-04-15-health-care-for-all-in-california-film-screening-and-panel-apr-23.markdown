@@ -9,7 +9,7 @@ Location: LGBT Center on 4th, 305 E 4th St, Santa Ana, California 92701
 RSVP-link: https://www.eventbrite.com/e/healthcare-advocacy-forum-the-impact-on-at-risk-communities-and-sb-562-tickets-33554160397
 ---
 
-Come joint us on Sunday afternoon, April 23rd, for a conversation about the US healthcare system, its impact on our undocumented and LGBTQI communities, and leading the way on the path toward Improved-Medicare-For-All under Senate Bill 562, The Healthy California Act. Including:
+Come join us on Sunday afternoon, April 23rd, for a conversation about the US healthcare system, its impact on our undocumented and LGBTQI communities, and leading the way on the path toward Improved-Medicare-For-All under Senate Bill 562, The Healthy California Act. Including:
 
 •Screening of Now Is The Time: Healthcare for Everybody, by producers Terry Sterrenberg and Laurie Simons
 
