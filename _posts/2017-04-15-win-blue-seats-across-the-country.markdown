@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - call now
+main-image: "/uploads/CodeBlue.png"
 ---
 
 Special Elections are taking place around the country. This is our early chance to win Blue house seats.  You can call voters in these states to get Democrats out to the polls.  
