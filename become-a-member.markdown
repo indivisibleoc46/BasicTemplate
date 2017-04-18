@@ -1,5 +1,5 @@
 ---
-title: About/Join
+title: Become a Member
 date: 2017-02-16 19:58:00 -08:00
 position: 0
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/slim-10_7.css\"
@@ -26,5 +26,3 @@ We are Indivisible Orange County, District 46.  Located in the center of Orange 
 We are united by our action, and find solidarity in our shared opposition to Trump and his policies.  We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **Read our [WELCOME GUIDE ](https://docs.google.com/document/d/1Vo6uvKAedmIvA8KR8uH22DvDpTh1z2X_iCt-N1Elq1U/edit#)for an introduction and lots of resources.**
-
-![District 46_smaller.jpg](https://manage.siteleaf.com/api/v2/sites/58f1b3b7190a5111f10749ea/source/_uploads/District%2046_smaller.jpg?download)
