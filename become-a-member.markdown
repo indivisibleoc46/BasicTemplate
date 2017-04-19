@@ -21,8 +21,8 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-We are Indivisible Orange County, District 46.  Located in the center of Orange County, CA, our district includes the cities of Santa Ana and Anaheim, as well as portions of Orange and Garden Grove.  \
-\
-We are united by our action, and find solidarity in our shared opposition to Trump and his policies.  We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+We are Indivisible Orange County, District 46.  Located in the center of Orange County, CA, our district includes the cities of Santa Ana and Anaheim, as well as portions of Orange and Garden Grove.  
+
+We are united by our action, and find solidarity in our shared opposition to Trump and his policies.  We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and non-citizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **Read our [WELCOME GUIDE ](https://docs.google.com/document/d/1Vo6uvKAedmIvA8KR8uH22DvDpTh1z2X_iCt-N1Elq1U/edit#)for an introduction and lots of resources.**
