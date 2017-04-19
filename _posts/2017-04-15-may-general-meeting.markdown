@@ -11,3 +11,5 @@ RSVP-link: Coming Soon
 ---
 
 We'll have a guest speaker, and let you know about upcoming opportunities for involvement. 
+
+RSVP Link Coming Soon
