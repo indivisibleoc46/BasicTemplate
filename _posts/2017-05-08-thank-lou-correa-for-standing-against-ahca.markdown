@@ -7,11 +7,11 @@ tags:
 - action
 is featured: true
 call-script-text: |-
-  **Caller:**Good morning/afternoon! I’m calling to say thank you to Rep. ______ for voting against TumpCare.\
-  \
-  **\[Democratic\] Staffer:** Thank you for calling. Rep. ______ voted against the American Health Care Act because she/he wants to make sure that every American has access to affordable health care. TrumpCare would take it away from 24 million people, which is completely unacceptable. She/he will continue to fight against it should it come back for another vote in the House.\
-  **\
-  Caller:** Thank you. There is a good chance that this bill returns after getting changed in the Senate. Will Rep. ____ commit to me, her/his constituent that she/he will vote against this bill if it comes back to the House?
+  \*\*Caller:\*\*Good morning/afternoon! I’m calling to say thank you to Rep. ______ for voting against TumpCare.
+
+  **\[Democratic\] Staffer:** Thank you for calling. Rep. ______ voted against the American Health Care Act because she/he wants to make sure that every American has access to affordable health care. TrumpCare would take it away from 24 million people, which is completely unacceptable. She/he will continue to fight against it should it come back for another vote in the House.
+
+  **Caller:** Thank you. There is a good chance that this bill returns after getting changed in the Senate. Will Rep. ____ commit to me, her/his constituent that she/he will vote against this bill if it comes back to the House?
 
   **Staffer:** Yes, Rep. ______ supports the ACA and will continue to fight to protect it.
 
