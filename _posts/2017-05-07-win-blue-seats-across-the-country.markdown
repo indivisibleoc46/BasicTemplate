@@ -4,8 +4,6 @@ date: 2017-05-07 11:50:00 -07:00
 categories:
 - action
 - event
-tags:
-- call now
 is featured: true
 main-image: "/uploads/CodeBlue.png"
 event-start-date: 2017-05-27 14:00:00 -07:00
