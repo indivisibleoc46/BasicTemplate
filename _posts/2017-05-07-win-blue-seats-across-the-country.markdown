@@ -2,7 +2,6 @@
 title: Phone Banking for Jon Ossoff with CodeBlue
 date: 2017-05-07 11:50:00 -07:00
 categories:
-- action
 - event
 is featured: true
 main-image: "/uploads/CodeBlue.png"
