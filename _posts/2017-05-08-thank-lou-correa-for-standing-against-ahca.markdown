@@ -18,6 +18,6 @@ call-script-text: |-
   **Caller:** Thank you.
 ---
 
-Indivisible has published a guide to [holding your rep accountable for their vote on the AHCA ](https://www.indivisibleguide.com/resource/gop-health-care-repeal-hold-accountable/?link_id=8&can_id=6b18a611b881e2ffe2f5ec6e1a682fe8&source=email-its-time-for-payback-recess&email_referrer=its-time-for-payback-recess&email_subject=its-time-for-payback-recess)plan to repeal Obamacare.  Since Lou Correa voted No and also spoke up against the bill, our job is to thank him.   \
-\
-Additionally, thank him for co-sponsoring Medicare for All in the House, and remind him that we expect to see him be a champion for that bill as time goes on.
+Indivisible has published a guide to [holding your rep accountable for their vote on the AHCA ](https://www.indivisibleguide.com/resource/gop-health-care-repeal-hold-accountable/?link_id=8&can_id=6b18a611b881e2ffe2f5ec6e1a682fe8&source=email-its-time-for-payback-recess&email_referrer=its-time-for-payback-recess&email_subject=its-time-for-payback-recess)plan to repeal Obamacare.  Since Lou Correa voted No and also spoke up against the bill, this is our chance to thank him and encourage him to go further.   
+
+Also thank him for co-sponsoring Medicare for All in the House, and remind him that we expect to see him be a champion for that bill as time goes on.
