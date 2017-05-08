@@ -10,6 +10,7 @@ is featured: true
 main-image: "/uploads/CodeBlue.png"
 event-start-date: 2017-05-27 14:00:00 -07:00
 event-end-date: 2017-05-27 16:00:00 -07:00
+RSVP-link: https://www.facebook.com/events/1525657224134270/
 ---
 
 Join Indivisible OC 46, and friends, for our first Phone Bank. If we're going to stop Donald Trump's destructive agenda, flipping the House of Representatives Blue will provide a much-needed check on his power. 
