@@ -6,7 +6,7 @@ categories:
 tags:
 - Correa
 - LGBT Center OC
-is featured: true
+is featured: false
 main-image: "/uploads/2017-02-18_13.27.03.jpg"
 layout: media-item
 ---
