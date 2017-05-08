@@ -3,6 +3,7 @@ title: OC Progressives Picnic
 date: 2017-05-07 23:31:00 -07:00
 categories:
 - event
+main-image: "/uploads/17973877_406770059694004_5673457062915980488_o.jpg"
 event-start-date: 2017-06-11 11:00:00 -07:00
 event-end-date: 2017-06-11 14:00:00 -07:00
 Location: Irvine Regional Park, 1 Irvine Park Road, Orange, California 92869
