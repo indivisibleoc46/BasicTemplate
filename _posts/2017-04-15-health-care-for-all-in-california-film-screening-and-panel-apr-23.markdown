@@ -1,6 +1,7 @@
 ---
 title: 'Health Care for All in California - Film Screening & Panel: Apr 23'
 date: 2017-04-15 23:39:00 -07:00
+published: false
 categories:
 - event
 event-start-date: 2017-04-23 16:00:00 -07:00
