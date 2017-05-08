@@ -1,6 +1,7 @@
 ---
 title: May 5 General Meeting
 date: 2017-04-15 18:18:00 -07:00
+published: false
 categories:
 - event
 is featured: false
